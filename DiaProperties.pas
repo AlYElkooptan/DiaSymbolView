@@ -2401,7 +2401,14 @@ begin
   Result := Symbol.get_paramBasePointerRegisterId(Value) = S_OK;
 
   if Result then
-    Reflection := Rttix.FormatFull(Value);
+  begin
+    Reflection.ValidFormats := [rfText, rfHint];
+    Reflection.Text := LookupRegisterName(Value, CurrentDiaMachineType);
+    Reflection.Hint := BuildHint([
+      THintSection.New('Value (decimal)', UiLibUIntToDec(Value)),
+      THintSection.New('Value (hex)', UiLibUIntToHex(Value))
+    ]);
+  end;
 end;
 
 function DiaxSymbol_get_localBasePointerRegisterId(
@@ -2414,7 +2421,14 @@ begin
   Result := Symbol.get_localBasePointerRegisterId(Value) = S_OK;
 
   if Result then
-    Reflection := Rttix.FormatFull(Value);
+  begin
+    Reflection.ValidFormats := [rfText, rfHint];
+    Reflection.Text := LookupRegisterName(Value, CurrentDiaMachineType);
+    Reflection.Hint := BuildHint([
+      THintSection.New('Value (decimal)', UiLibUIntToDec(Value)),
+      THintSection.New('Value (hex)', UiLibUIntToHex(Value))
+    ]);
+  end;
 end;
 
 function DiaxSymbol_get_isLocationControlFlowDependent(
